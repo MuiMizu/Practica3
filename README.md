@@ -1,4 +1,4 @@
-# Practica3
+# Practica3 Fabian Lorenzo
 
 Calculadora de Divisas que se utiliza para cambiar cualquier moneda que tenga en otra que usted necesite
 
