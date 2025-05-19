@@ -1,8 +1,21 @@
 # Practica3 Fabian Lorenzo
 
-Calculadora de Divisas que se utiliza para cambiar cualquier moneda que tenga en otra que usted necesite
+Calculadora de Sueldos y todo lo que represente tener uno.
 
-Clonar este repositorio en VSC y ejecutar con la terminal u boton integrado con el programa
-1) Se usa Primero ingresando la cantidad de una moneda que usted tenga, y luego buscando la divisa de su moneda en la moneda que quiere cambiar
+Este programa calcula todo lo que usted debe pagar, y le ayuda a calcular su sueldo bruto en base a su sueldo por contrato
 
-2) Por ejemplo, si tiene 400 pesos mexicanos, y necesita pesos peruanos, busque la divisa del peso mexicano en peruano y ese numero ingreselo como segundo dato en la terminal.
+1) Usted ingresa su sueldo al inicio del programa
+
+2) Continua con descuentos que se le aplican a su sueldo segun usted ingrese
+
+3) Y le preguntara si se aplica la bonificacion y si si, se calculara en base a la bonificacion anteriormente agregada (si ingreso una).
+
+4) En mismo programa al final le saldran los calculos de esta manera
+"Detalle del Cálculo"
+"Sueldo Bruto Mensual:
+"Descuento por Seguridad Social (TSS)":
+"Retención ISR Mensual:"
+"Otros Descuentos:"
+"Bonificación:"
+"Sueldo Neto Mensual:"
+"Eso es todo amigos"
