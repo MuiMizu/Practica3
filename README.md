@@ -1,4 +1,4 @@
-# Practica3 Fabian Lorenzo
+# Practica 4 Fabian Lorenzo
 
 Calculadora de Sueldos y todo lo que represente tener uno.
 
